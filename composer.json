@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-tag",
+    "name": "NoMondayPL/laminas-tag",
     "description": "Manipulate and weight taggable items, and create tag clouds",
     "license": "BSD-3-Clause",
     "keywords": [
